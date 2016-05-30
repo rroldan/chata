@@ -1,0 +1,23 @@
+{
+  "name": "chata",
+  "version": "0.0.1",
+  "description": "Implementación de un chat en JavaScript como ejemplo de aprendizaje en el lenguaje JavaScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroldan/chata.git"
+  },
+  "keywords": [
+    "chat",
+    "javascript"
+  ],
+  "author": "Ricardo Roldán Hernández",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rroldan/chata/issues"
+  },
+  "homepage": "https://github.com/rroldan/chata#readme"
+}
