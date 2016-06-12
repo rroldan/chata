@@ -2,6 +2,7 @@
   "predef": [
     "document",
     "window",
+    "SockJS",
     "-Promise"
   ],
   "browser": true,
